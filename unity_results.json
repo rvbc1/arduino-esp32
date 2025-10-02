@@ -1,0 +1,45 @@
+{
+  "title": "No tests found",
+  "summary": "0 tests   0 ✅  0s ⏱️\n0 suites  0 💤\n0 files    0 ❌\n\nResults for commit 54154c78.\n",
+  "conclusion": "neutral",
+  "stats": {
+    "files": 0,
+    "errors": [],
+    "suites": 0,
+    "duration": 0,
+    "suite_details": [],
+    "tests": 0,
+    "tests_succ": 0,
+    "tests_skip": 0,
+    "tests_fail": 0,
+    "tests_error": 0,
+    "runs": 0,
+    "runs_succ": 0,
+    "runs_skip": 0,
+    "runs_fail": 0,
+    "runs_error": 0,
+    "commit": "54154c7806b9922cba24bdcd5b4086482f22209d"
+  },
+  "annotations": [],
+  "check_url": "https://github.com/rvbc1/arduino-esp32/runs/51751576758",
+  "formatted": {
+    "stats": {
+      "files": "0",
+      "errors": [],
+      "suites": "0",
+      "duration": "0",
+      "suite_details": [],
+      "tests": "0",
+      "tests_succ": "0",
+      "tests_skip": "0",
+      "tests_fail": "0",
+      "tests_error": "0",
+      "runs": "0",
+      "runs_succ": "0",
+      "runs_skip": "0",
+      "runs_fail": "0",
+      "runs_error": "0",
+      "commit": "54154c7806b9922cba24bdcd5b4086482f22209d"
+    }
+  }
+}
